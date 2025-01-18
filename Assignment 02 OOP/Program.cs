@@ -33,6 +33,21 @@
             #endregion
 
 
+            #region Trird Project 
+
+            //Duration d1 = new Duration(1,10,5);
+            //Console.WriteLine($" d1 : {d1}");         
+
+            //Duration D1 = new Duration(3600);
+            //Console.WriteLine($" D1 ; {D1}");
+
+            //Duration D2 = new Duration(7800);
+            //Console.WriteLine($" D2 ; {D2}");
+
+            //Duration D3 = new Duration(666);
+            //Console.WriteLine($" D3 ; {D3}");
+            #endregion
+
         }
 
 
@@ -56,5 +71,6 @@
                 return ReadPoint(message);
             }
         }
+
     }
 }
